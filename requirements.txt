@@ -3,5 +3,6 @@ joblib
 numpy
 pika>=1.3
 fastapi>=0.110
+redis>=5.0
 uvicorn[standard]
 # apache-airflow is installed in the Airflow environment (use its constraints file)
